@@ -1,0 +1,33 @@
+I would like to visit the following places:
+
+- [ ] Cambodia
+    - [ ] Ankhor Wat
+- [ ] Thailand
+- [ ] Vietnam
+    - [ ] Da Lat
+    - [ ] Ho Chi Minh City
+    - [ ] Ha Long Bay
+    - [ ] Ha Noi
+- [ ] China
+    - [x] Great Wall
+- [ ] Japan
+    - [ ] Universal Studios
+    - [ ] Kyoto
+    - [ ] Disney Land
+    - [ ] Jiro's Sushi shop
+    - [ ] Mt. Fuji
+    - [x] Hiroshima
+    - [ ] Oosaka
+        - [ ] Tennoji temple
+- [ ] Korea
+    - [ ] Seoul
+        - [x] Secret Garden
+- [ ] USA
+    - [ ] Washington D.C.
+        - [ ] Museum of Stone Masons
+    - [ ] Philadelphia
+    - [ ] Boston
+    - [ ] NYC
+    - [ ] Chicago. I want a deep dish pizza and a hot dog.
+    - [ ] New Orleans
+    - [ ] Raleigh. I hear the food rocks!
