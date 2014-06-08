@@ -41,7 +41,7 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [ ] JavaScript - The Good Parts
 - [ ] JUnit in Action
 - [ ] Masterminds of Programming
-- [ ] Masters of Doom
+- [X] Masters of Doom
 - [ ] Modern C++ Design by Andrei Alexandrescu
 - [ ] Modern Operating Systems by Andrew S. Tanenbaum
 - [ ] More Effective C++
@@ -101,7 +101,6 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [ ] Why's (Poignant) Guide to Ruby
 - [ ] Working Effectively with Legacy Code by Michael C. Feathers
 - [ ] Writing Secure Code (2nd Edition) by Michael Howard
-- [ ] Writing Solid Code
 - [ ] Writing Solid Code by Steve Maguire
 - [ ] Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
 
