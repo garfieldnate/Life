@@ -74,7 +74,7 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [ ] The C Programming Language by Kernighan and Ritchie
 - [ ] The C++ Programming Language (3rd edition) by Stroustrup
 - [ ] The Career Programmer: Guerilla Tactics for an Imperfect World by Christopher Duncan
-- [ ] The Deadline: A Novel About Project Management by Tom DeMarco
+- [x] The Deadline: A Novel About Project Management by Tom DeMarco
 - [x] The Design of Everyday Things by Donald Norman
 - [ ] The Elements of Computing Systems
 - [ ] The Elements of Style
