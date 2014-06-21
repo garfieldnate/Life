@@ -113,3 +113,14 @@ These books are additionally recommended by [](Rapid Development: Taming Wild So
 - [ ] Visual Explanations: Images and Quantities, Evidence and Narrative
 - [ ] Envisioning Information
 - [ ] Mastering Regular Expression
+
+Game Design Books
+
+- [ ] The Art of Game Design: a Book of Lenses
+- [ ] Game Design Workshop, Second Edition: A Playcentric Approach to Creating Innovative Games
+- [ ] Challenges for Game Designers
+- [ ] Theory of Fun
+- [ ] Rules of Play: Game Design Fundamentals
+- [ ] Level Up!: The Guide to Great Video Game Design
+- [ ] What Video Games Have to Teach Us About Learning and Literacy
+- 
