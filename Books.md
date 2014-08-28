@@ -13,7 +13,8 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [x] Code Complete (2nd edition) by Steve McConnell
     - [ ] reread
 - [ ] Code: The Hidden Language of Computer Hardware and Software
-- [ ] Coders at Work by Peter Seibel
+- [X] Coders at Work by Peter Seibel
+    - [ ] read sources in bibliography  
 - [ ] Compilers: Principles, Techniques and Tools by Alfred V. Aho, Ravi Sethi and Jeffrey D. Ullman
 - [ ] Computability by N. J. Cutland
 - [ ] Computational Beauty of Nature
@@ -119,7 +120,7 @@ Game Design Books
 - [ ] The Art of Game Design: a Book of Lenses
 - [ ] Game Design Workshop, Second Edition: A Playcentric Approach to Creating Innovative Games
 - [ ] Challenges for Game Designers
-- [ ] Theory of Fun
+- [X] Theory of Fun
 - [ ] Rules of Play: Game Design Fundamentals
 - [ ] Level Up!: The Guide to Great Video Game Design
 - [ ] What Video Games Have to Teach Us About Learning and Literacy
