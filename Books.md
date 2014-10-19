@@ -90,7 +90,7 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [ ] The Productive Programmer
 - [ ] The Seasoned Schemer
 - [ ] The Soul of a New Machine by Tracy Kidder
-- [ ] The Systems Bible: The Beginner's Guide to Systems Large and Small by John Gall
+- [x] The Systems Bible: The Beginner's Guide to Systems Large and Small by John Gall
 - [ ] The Tao of Programming
 - [x] The Tao Te Ching
     - [ ] reread
