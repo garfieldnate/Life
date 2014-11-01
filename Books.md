@@ -67,7 +67,7 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [ ] Structure and Interpretation of Computer Programs
 - [ ] Surely You're Joking, Mr. Feynman!
 - [ ] Test-Driven Development: By Example by Kent Beck
-- [ ] The Alchemist by Paulo Coelho
+- [X] The Alchemist by Paulo Coelho
 - [ ] The Annotated Turing
 - [ ] The Art of Computer Programming by Donald Knuth
 - [ ] The Art of Deception by Kevin Mitnick
