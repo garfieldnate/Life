@@ -103,7 +103,7 @@ These 100 or so programming-related books were [recommended](http://stackoverflo
 - [ ] Working Effectively with Legacy Code by Michael C. Feathers
 - [ ] Writing Secure Code (2nd Edition) by Michael Howard
 - [ ] Writing Solid Code by Steve Maguire
-- [ ] Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
+- [X] Zen and the Art of Motorcycle Maintenance by Robert M. Pirsig
 
 These books are additionally recommended by [](Rapid Development: Taming Wild Software Development Schedules).
 
